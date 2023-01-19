@@ -12,3 +12,5 @@ Additionally, the information provided by OBD-II PIDs is often a calculated valu
 In order to accurately measure the CO2 emissions produced by a vehicle, it would be necessary to use specialized equipment and perform tests in a controlled environment. Many countries have regulations and organizations that set standards for measuring CO2 emissions, such as the European Union's New European Driving Cycle (NEDC) and the United States Environmental Protection Agency (EPA).
 
 This script uses the data obtained from OBD-II PIDs to estimate the CO2 emissions, it takes the fuel consumption, speed, and RPM of the car and makes the calculation to estimate CO2 emissions.
+
+This was made in a few minutes just exploring https://chat.openai.com/chat
